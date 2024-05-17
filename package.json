@@ -5,6 +5,9 @@
   "repository": "git@github.com:spacesailor24/lit-custom-auth.git",
   "author": "Wyatt Barnes <me@wyatt.email>",
   "license": "MIT",
+  "scripts": {
+    "serve": "parcel ./src/index.html"
+  },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
     "ts-node": "^10.9.2",
